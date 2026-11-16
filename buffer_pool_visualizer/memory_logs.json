@@ -1,0 +1,302 @@
+[
+  {
+    "time": "2026-11-16T03:42:02",
+    "algorithm": "LRU",
+    "page_requested": 1,
+    "operation": "READ",
+    "status": "FAULT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.0
+  },
+  {
+    "time": "2026-11-16T03:42:18",
+    "algorithm": "LRU",
+    "page_requested": 1,
+    "operation": "READ",
+    "status": "HIT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.5
+  },
+  {
+    "time": "2026-11-16T03:42:27",
+    "algorithm": "LRU",
+    "page_requested": 2,
+    "operation": "READ",
+    "status": "FAULT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.3333
+  },
+  {
+    "time": "2026-11-16T03:42:32",
+    "algorithm": "LRU",
+    "page_requested": 2,
+    "operation": "READ",
+    "status": "HIT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.5
+  },
+  {
+    "time": "2026-11-16T03:42:33",
+    "algorithm": "LRU",
+    "page_requested": 2,
+    "operation": "READ",
+    "status": "HIT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.6
+  },
+  {
+    "time": "2026-11-16T03:42:34",
+    "algorithm": "LRU",
+    "page_requested": 2,
+    "operation": "READ",
+    "status": "HIT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.6667
+  },
+  {
+    "time": "2026-11-16T03:42:34",
+    "algorithm": "LRU",
+    "page_requested": 2,
+    "operation": "READ",
+    "status": "HIT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.7143
+  },
+  {
+    "time": "2026-11-16T03:42:35",
+    "algorithm": "LRU",
+    "page_requested": 2,
+    "operation": "READ",
+    "status": "HIT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.75
+  },
+  {
+    "time": "2026-11-16T03:42:35",
+    "algorithm": "LRU",
+    "page_requested": 2,
+    "operation": "READ",
+    "status": "HIT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.7778
+  },
+  {
+    "time": "2026-11-16T03:42:36",
+    "algorithm": "LRU",
+    "page_requested": 2,
+    "operation": "READ",
+    "status": "HIT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.8
+  },
+  {
+    "time": "2026-11-16T03:42:36",
+    "algorithm": "LRU",
+    "page_requested": 2,
+    "operation": "READ",
+    "status": "HIT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.8182
+  },
+  {
+    "time": "2026-11-16T03:42:36",
+    "algorithm": "LRU",
+    "page_requested": 2,
+    "operation": "READ",
+    "status": "HIT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.8333
+  },
+  {
+    "time": "2026-11-16T03:42:37",
+    "algorithm": "LRU",
+    "page_requested": 2,
+    "operation": "READ",
+    "status": "HIT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.8462
+  },
+  {
+    "time": "2026-11-16T03:42:37",
+    "algorithm": "LRU",
+    "page_requested": 2,
+    "operation": "READ",
+    "status": "HIT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.8571
+  },
+  {
+    "time": "2026-11-16T03:42:37",
+    "algorithm": "LRU",
+    "page_requested": 2,
+    "operation": "READ",
+    "status": "HIT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.8667
+  },
+  {
+    "time": "2026-11-16T03:42:37",
+    "algorithm": "LRU",
+    "page_requested": 2,
+    "operation": "READ",
+    "status": "HIT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.875
+  },
+  {
+    "time": "2026-11-16T03:42:38",
+    "algorithm": "LRU",
+    "page_requested": 2,
+    "operation": "READ",
+    "status": "HIT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.8824
+  },
+  {
+    "time": "2026-11-16T03:42:42",
+    "algorithm": "LRU",
+    "page_requested": 3,
+    "operation": "READ",
+    "status": "FAULT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.8333
+  },
+  {
+    "time": "2026-11-16T03:42:43",
+    "algorithm": "LRU",
+    "page_requested": 3,
+    "operation": "READ",
+    "status": "HIT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.8421
+  },
+  {
+    "time": "2026-11-16T03:42:43",
+    "algorithm": "LRU",
+    "page_requested": 3,
+    "operation": "READ",
+    "status": "HIT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.85
+  },
+  {
+    "time": "2026-11-16T03:42:44",
+    "algorithm": "LRU",
+    "page_requested": 3,
+    "operation": "READ",
+    "status": "HIT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.8571
+  },
+  {
+    "time": "2026-11-16T03:42:44",
+    "algorithm": "LRU",
+    "page_requested": 3,
+    "operation": "READ",
+    "status": "HIT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.8636
+  },
+  {
+    "time": "2026-11-16T03:42:44",
+    "algorithm": "LRU",
+    "page_requested": 3,
+    "operation": "READ",
+    "status": "HIT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.8696
+  },
+  {
+    "time": "2026-11-16T03:42:44",
+    "algorithm": "LRU",
+    "page_requested": 3,
+    "operation": "READ",
+    "status": "HIT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.875
+  },
+  {
+    "time": "2026-11-16T03:42:45",
+    "algorithm": "LRU",
+    "page_requested": 3,
+    "operation": "READ",
+    "status": "HIT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.88
+  },
+  {
+    "time": "2026-11-16T03:42:45",
+    "algorithm": "LRU",
+    "page_requested": 3,
+    "operation": "READ",
+    "status": "HIT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.8846
+  },
+  {
+    "time": "2026-11-16T03:42:45",
+    "algorithm": "LRU",
+    "page_requested": 3,
+    "operation": "READ",
+    "status": "HIT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.8889
+  },
+  {
+    "time": "2026-11-16T03:42:45",
+    "algorithm": "LRU",
+    "page_requested": 3,
+    "operation": "READ",
+    "status": "HIT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.8929
+  },
+  {
+    "time": "2026-11-16T03:42:46",
+    "algorithm": "LRU",
+    "page_requested": 3,
+    "operation": "READ",
+    "status": "HIT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.8966
+  },
+  {
+    "time": "2026-11-16T03:42:46",
+    "algorithm": "LRU",
+    "page_requested": 3,
+    "operation": "READ",
+    "status": "HIT",
+    "evicted_page": null,
+    "dirty_writeback": false,
+    "hit_ratio": 0.9
+  }
+]
